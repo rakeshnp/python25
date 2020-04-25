@@ -2,7 +2,7 @@ def add(x,y):
  pass
  
 def sub(x,y):
-confusion
+clear
 
 def muttiply(x,y)
 pass
